@@ -1,0 +1,14 @@
+1. Du har dessa alternativ:
+Med (nästan) enbart AI skapa en av följande appar:
+Kontaktbok där man kan lägga till och spara kontakter med multipla e-mail, telefonnummer osv. SQLite eller annan databas som backer. Sökbar på namn, telefonnummer och kanske något mer. GUI eller TUI (Text User Interface - "pimpad konsol")
+Filorganisationsverktyg - med TUI -Text User Interface - som tillåter flytt mellan mappar, omdöpning av alla filer i en mapp, partiell omdöpning av filer enligt exempelvis ett regex-mönster eller med ett tillägg konkatenerat till befintligt namn.
+Installationsscript för dina favoritverktyg för ny utvecklardator, inklusive mappstrukturer, med ett TUI, installera minst ett programeringsspråk, en editor, en databas-motor och ett valfritt program. Skapa en mappstruktur för dina projekt, exempelvis privata/jobb
+Valfri litet utilityprogram enligt temat ovan, med antingen lite data eller funktioner för att automatiskt/schemalagt eller liknande utföra operationer på din dator.  
+
+Så: Vad tycker du? Uppgiften lyder att du ska göra så mycket som möjligt. Vilken av dessa projekt är klara enklast/snabbast? Jag tänkte som tidigare nämnt skriva i VS Code, JavaScript. Jag har Node som du tidigare rekommenderade mig att fixa.
+
+(Då fick jag "kontaktboken" som förslag och då behövde databaser implementeras. Det tog för mycket tid tyckte jag.)
+
+2. Finns någon av dessa alternativ utan databaser och annat? Jag tänker om det är något som snabbt går att lösa i ren kod?
+
+(Då fick jag hela projektet som det är skrivet nu, projektet är ett konsolbaserat verktyg (TUI - Text User Interface) som körs direkt i terminalen utan ett grafiskt användargränssnitt.)
